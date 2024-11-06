@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with Newman, npm, ESM and TypeScript
+> Example of Allure Report usage with Newman, npm and ESM
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
